@@ -9,10 +9,10 @@ words_per_minute: 200
 baseurl: '/'
 
 # Website info
-title: 'Zing: Your Trusted Source for Product Comparisons and Expert Reviews'
+title: Zing
 description: Discover the Best Deals, Compare Products, and Make Informed Choices for an Enriched Shopping Experience
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: assets/images/zing_white.svg
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: https://zing.info/
