@@ -1,20 +1,108 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+accessories:
+  name: accessories
+  description:
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+beauty:
+  name: beauty
+  description:
   cover: False
-git:
-  name: git
-  description: A series of git tips.
-  cover: assets/images/speeches.jpg
+cameras:
+  name: cameras
+  description:
+  cover: False
+cooking:
+  name: cooking
+  description:
+  cover: False
+culinary-skills:
+  name: culinary-skills
+  description:
+  cover: False
+entertainment:
+  name: entertainment
+  description:
+  cover: False
+exercise-equipment:
+  name: exercise-equipment
+  description:
+  cover: False
+exotic-ingredients:
+  name: exotic-ingredients
+  description:
+  cover: False
+fashion:
+  name: fashion
+  description:
+  cover: False
+fitness:
+  name: fitness
+  description:
+  cover: False
+flavors:
+  name: flavors
+  description:
+  cover: False
+gaming:
+  name: gaming
+  description:
+  cover: False
+gaming-setup:
+  name: gaming-setup
+  description:
+  cover: False
+health:
+  name: health
+  description:
+  cover: False
+home-gym:
+  name: home-gym
+  description:
+  cover: False
+home-office:
+  name: home-office
+  description:
+  cover: False
+home-theater:
+  name: home-theater
+  description:
+  cover: False
+kitchen-gadgets:
+  name: kitchen-gadgets
+  description:
+  cover: False
+memories:
+  name: memories
+  description:
+  cover: False
+photography:
+  name: photography
+  description:
+  cover: False
+productivity:
+  name: productivity
+  description:
+  cover: False
+self-care:
+  name: self-care
+  description:
+  cover: False
+skincare:
+  name: skincare
+  description:
+  cover: False
+smart-tvs:
+  name: smart-tvs
+  description:
+  cover: False
+style:
+  name: style
+  description:
+  cover: False
+summer-style:
+  name: summer-style
+  description:
+  cover: False
+wellness:
+  name: wellness
+  description:
+  cover: False
