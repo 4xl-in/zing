@@ -8,7 +8,7 @@ date: 2017-07-27 10:00:00
 tags: [Home Office, Productivity, Style]
 class: post-template
 subclass: 'post'
-author: ghost
+author: zing-team
 ---
 
 Working from home? Make your home office a productive and stylish space with these must-have essentials.

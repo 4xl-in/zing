@@ -9,7 +9,7 @@ tags: [Cooking, Kitchen Gadgets, Culinary Skills]
 class: post-template
 subclass: 'post'
 logo: assets/images/ghost.png
-author: hannah
+author: zing-team
 ---
 
 Unleash your culinary creativity with these innovative kitchen gadgets.

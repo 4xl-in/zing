@@ -9,7 +9,7 @@ tags: [Skincare, Beauty, Self-care]
 class: post-template
 subclass: 'post'
 logo: assets/images/ghost.png
-author: hannah
+author: zing-team
 ---
 
 Indulge in self-care with these luxurious skincare products.
