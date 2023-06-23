@@ -68,12 +68,12 @@ feed:
 safe: False
 lsi: False
 username: 4xl-in
-repo: snippets
-branch: master
-relative_source: ../snippets/
-destination: ../snippets-pages/
-production_url: https://snippets.4xl.in/
-source_url: https://github.com/4xl-in/snippets/
+repo: zing
+branch: main
+relative_source: ../zing/
+destination: ../zing-pages/
+production_url: https://zing.info/
+source_url: https://github.com/4xl-in/zing/
 
 exclude:
   - assets/css
