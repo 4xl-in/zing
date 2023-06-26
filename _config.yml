@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
+baseurl: /
 
 # Website info
 title: Zing
@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: # replace with your GA tracking identifier
+google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -69,7 +69,7 @@ safe: False
 lsi: False
 username: 4xl-in
 repo: zing
-branch: main
+branch: master
 relative_source: ../zing/
 destination: ../zing-pages/
 production_url: https://zing.info/
@@ -90,5 +90,5 @@ exclude:
   - README.md
   - script.py
   - changelog.md
-  - '*.Rmd'
+  - "*.Rmd"
   - .git*
