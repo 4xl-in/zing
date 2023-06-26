@@ -30,7 +30,8 @@ disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: # replace with your GA tracking identifier
+google_tag: GTM-WL2CFPD # replace with your Google Tag Manager
 
 # Permalinks
 permalink: /:title
