@@ -4,7 +4,7 @@ current: post
 cover: assets/images/amazon-alexa.png
 navigation: True
 title: Discounts on Amazon Alexa, Fire TV and Kindle
-date: 2023-07-05 20:00:00 +05:30
+date: 2023-07-05 10:30:00 +05:30
 tags: [Amazon Prime Day 2023, Alexa]
 class: post-template
 subclass: 'post'
