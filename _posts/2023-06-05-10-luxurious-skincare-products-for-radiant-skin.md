@@ -4,7 +4,7 @@ current: post
 cover: assets/images/10-luxurious-skincare-products-for-radiant-skin.png
 navigation: True
 title: "Pamper Yourself: 10 Luxurious Skincare Products for Radiant Skin"
-date: 2014-08-12 10:18:00 +05:30
+date: 2023-06-05 10:18:00 +05:30
 tags: [Skincare, Beauty, Self-care]
 class: post-template
 subclass: 'post'

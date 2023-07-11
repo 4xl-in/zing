@@ -4,7 +4,7 @@ current: post
 cover: assets/images/top-10-smart-tvs-for-an-immersive-experience.png
 navigation: True
 title: "Upgrade Your Entertainment: Top 10 Smart TVs for an Immersive Experience"
-date: 2017-07-27 10:00:00 +05:30
+date: 2023-06-07 10:00:00 +05:30
 tags: [Entertainment, Smart TVs, Home Theater]
 class: post-template
 subclass: 'post'

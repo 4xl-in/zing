@@ -4,7 +4,7 @@ current: post
 cover: assets/images/10-fitness-equipment-for-your-home-gym.png
 navigation: True
 title: "Stay Fit and Active: 10 Fitness Equipment for Your Home Gym"
-date: 2017-07-27 10:00:00 +05:30
+date: 2023-06-09 10:00:00 +05:30
 tags: [Fitness, Home Gym, Exercise Equipment]
 class: post-template
 subclass: 'post'
