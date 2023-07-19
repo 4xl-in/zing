@@ -2,10 +2,6 @@ accessories:
   name: accessories
   description:
   cover: False
-amazon-prime-day-2023:
-  name: amazon-prime-day-2023
-  description: Amazon Prime Day 2023
-  cover: assets/images/amazon-prime-day-2023.png
 beauty:
   name: beauty
   description:
