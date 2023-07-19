@@ -10,11 +10,11 @@ subclass: 'post page'
 
 At Zing.info,
 our mission is simple: to provide you with the ultimate destination for finding
-the best deals on Amazon.
+the best deals on the internet.
 We understand the excitement of discovering fantastic products at incredible
 prices, and we're here to make your shopping experience even better.
 
-Our team of dedicated deal hunters scours Amazon's vast marketplace to handpick
+Our team of dedicated deal hunters scours internet's vast marketplace to handpick
 the most compelling offers across various categories.
 Whether you're looking for the latest tech gadgets, fashion accessories,
 home essentials, or anything in between, we've got you covered.
@@ -39,8 +39,7 @@ Click
 [here](https://t.me/TopAmazonIndiaDeals){:target="_blank"}
 to join our Telegram channel and unlock a world of savings.
 
-Thank you for choosing Zing.info as your go-to resource for the best deals on
-Amazon.
+Thank you for choosing Zing.info as your go-to resource for the best deals.
 We're here to make your shopping experience delightful, affordable,
 and full of surprises.
 Start exploring our site, follow us on Twitter, and join our Telegram channel

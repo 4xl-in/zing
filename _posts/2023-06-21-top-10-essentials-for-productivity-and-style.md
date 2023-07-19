@@ -90,7 +90,7 @@ and creativity.
 
 Remember to prioritize comfort, organization,
 and personal touches when selecting the products that suit your needs.
-Explore these items on Amazon, read customer reviews,
+Explore these items, read customer reviews,
 and make your selections based on your preferences and budget.
 With a well-equipped home office,
 you'll be ready to tackle tasks with efficiency and style.
