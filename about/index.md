@@ -29,7 +29,7 @@ bargain again.
 We'll keep you in the loop about the latest trends and must-have products that
 will add a zing to your life.
 
-Additionally,
+<!-- Additionally,
 we invite you to join our Telegram channel,
 where you'll find a vibrant community of deal enthusiasts sharing their
 favorite finds and exclusive discount codes. Be part of the conversation,
@@ -37,7 +37,7 @@ engage with fellow shoppers, and discover amazing deals that you won't find
 anywhere else.
 Click
 [here](https://t.me/TopAmazonIndiaDeals){:target="_blank"}
-to join our Telegram channel and unlock a world of savings.
+to join our Telegram channel and unlock a world of savings. -->
 
 Thank you for choosing Zing.info as your go-to resource for the best deals.
 We're here to make your shopping experience delightful, affordable,
